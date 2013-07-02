@@ -10,7 +10,9 @@
 <node CREATED="1372672997812" HGAP="10" ID="ID_498359410" MODIFIED="1372680989876" STYLE="bubble" TEXT="Show Status [ planned / In progress / Completed]" VSHIFT="-64"/>
 <node CREATED="1372681005840" ID="ID_1037498432" MODIFIED="1372681040412" TEXT="How to get Involved">
 <node CREATED="1372673392093" HGAP="35" ID="ID_1518666823" MODIFIED="1372673669437" TEXT="Tell friends/ Recommend" VSHIFT="-31"/>
-<node CREATED="1372673402093" HGAP="45" ID="ID_333073138" MODIFIED="1372674893703" TEXT="Donate" VSHIFT="19"/>
+<node CREATED="1372673402093" HGAP="45" ID="ID_333073138" MODIFIED="1372674893703" TEXT="Donate" VSHIFT="19">
+<node CREATED="1372753743974" ID="ID_1927274839" MODIFIED="1372753851927" TEXT="Display a &quot;Donation meter diplaying the difference your donation can make"/>
+</node>
 </node>
 </node>
 <node CREATED="1372684679362" ID="ID_985159315" MODIFIED="1372684724559" TEXT="Display a Google Map with locations of all toilets {planned / in progress / Completed]"/>
